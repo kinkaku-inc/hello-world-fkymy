@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test01",
+      "setup": "",
+      "run": "echo $HELLO",
+      "input": "",
+      "output": "hello, world",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
